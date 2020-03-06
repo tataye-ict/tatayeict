@@ -1,2 +1,4 @@
 # tatayeict
-Storage
+wp-admin
+UN: eleni
+Pass: eleni
